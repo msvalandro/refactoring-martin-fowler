@@ -2,5 +2,11 @@
   "name": "refactoring",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24"
+  }
 }
